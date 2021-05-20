@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Sensor</string>
+    <string name="recording_done">Recording saved!</string>
+    <string name="recording_start">Recording started!</string>
+</resources>
